@@ -1,6 +1,6 @@
 # diceframe-skills
 
-DiceFrame 的 AI 协作技能（ZCode / agent skills）集合。每个顶层目录是一个独立 skill，供开发与内容创作时使用。
+DiceFrame 的 AI 协作技能（agent skills）集合。每个顶层目录是一个独立 skill，供开发与内容创作时使用。
 
 ## 技能列表
 
